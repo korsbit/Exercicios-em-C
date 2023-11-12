@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/*
+2. Em algumas situações, em uma aplicação, é preciso determinar quais são os
+números múltiplos de um ou mais valores, dentre todos os valores de um con-
+junto de dados. Dessa forma, faça um programa que leia um número e informe
+se ele é divisível por três e por sete.
+*/
+
 int main() {
     int numero;
 
